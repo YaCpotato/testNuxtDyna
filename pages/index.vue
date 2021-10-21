@@ -11,7 +11,7 @@
 export default {
   methods:{
     moveTest3() {
-      this.$router.push('/test3')
+      this.$router.push('/test3/3')
     }
   }
 }
